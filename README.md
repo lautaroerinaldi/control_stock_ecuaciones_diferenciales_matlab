@@ -1,0 +1,1 @@
+# control_stock_ecuaciones_diferenciales_matlab
